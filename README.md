@@ -13,7 +13,7 @@ git clone https://github.com/creative-ak/To-Do-List.git
 Then cd into the folder with this command-
 
 ```
-cd Laravel-vue-todolist
+cd To-Do-List
 ```
 
 Then do a composer install
